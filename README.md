@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">🔴 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   I'm <strong>Shubham</strong> — learning by building, experimenting, and solving problems.
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">🔵 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode&theme=dark&perline=9" width="560" alt="C, C++, HTML, CSS, JavaScript, Python, Git, GitHub, and VS Code" />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table width="100%">
   <tr>
