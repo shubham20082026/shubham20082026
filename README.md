@@ -54,13 +54,6 @@ I'm Shubham, and this is where I share what I'm building and learning.
   <a href="https://github.com/shubham20082026?tab=repositories">View all my projects →</a>
 </p>
 
-## 📈 GitHub activity
-
-<p align="center">
-  <a href="https://github.com/shubham20082026">
-    <img src="https://ghchart.rshah.org/3b82f6/shubham20082026" width="100%" alt="Shubham's GitHub contribution calendar" />
-  </a>
-</p>
 ---
 
 <p align="center">
