@@ -39,23 +39,28 @@ I'm Shubham, and this is where I share what I'm building and learning.
 ## 🛠️ Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode&theme=dark&perline=9" alt="C, C++, HTML, CSS, JavaScript, Python, Git, GitHub, and VS Code" />
 </p>
 
 ## 🚀 Featured projects
 
 | Project |
 | :--- |
-| [Project One](https://github.com/shubham20082026/AgentOps-26_ORIGINAL_anomaly) |
-| [Project Two](https://github.com/shubham20082026/HackSprint2026_AXIOM_zero) |
-| [Project Three](https://github.com/shubham20082026/SIH-2026) |
+| [AgentOps 2026](https://github.com/shubham20082026/AgentOps-26_ORIGINAL_anomaly) |
+| [HackSprint 2026](https://github.com/shubham20082026/HackSprint2026_AXIOM_zero) |
+| [Smart India Hackathon 2026](https://github.com/shubham20082026/SIH-2026) |
+
+<p align="center">
+  <a href="https://github.com/shubham20082026?tab=repositories">View all my projects →</a>
+</p>
 
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham20082026&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="Shubham's GitHub contribution activity" />
+  <a href="https://github.com/shubham20082026">
+    <img src="https://ghchart.rshah.org/3b82f6/shubham20082026" width="100%" alt="Shubham's GitHub contribution calendar" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
