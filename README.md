@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>🔴 AgentOps 2026</h3>
       <p>ReRoute · ORIGINAL_anomaly</p>
       <p><code>Python</code></p>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
       <a href="https://github.com/shubham20082026/AgentOps-26_ORIGINAL_anomaly"><strong>Explore project →</strong></a>
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>⚡ HackSprint 2026</h3>
       <p>AXIOM_zero</p>
       <p><code>TypeScript</code></p>
@@ -76,12 +76,20 @@ Here are some ideas to get you started:
       <a href="https://github.com/shubham20082026/HackSprint2026_AXIOM_zero"><strong>Explore project →</strong></a>
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>🔵 Smart India Hackathon</h3>
       <p>SIH · 2026</p>
       <p><code>TypeScript</code></p>
       <br>
       <a href="https://github.com/shubham20082026/SIH-2026"><strong>Explore project →</strong></a>
+      <br><br>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>OpenAI Showcase Finale</h3>
+      <p>RoleRadar-Shubham Parmar</p>
+      <p><code>JavaScript</code></p>
+      <br>
+      <a href="https://github.com/shubham20082026/OpenAI_ShowcaseFinale-2026_RoleRadar"><strong>Explore project →</strong></a>
       <br><br>
     </td>
   </tr>
