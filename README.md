@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- NEON HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:7C3AED,100:00D9FF&height=240&section=header&text=SHUBHAM%20PARMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=LEARN%20%20%2F%20%20BUILD%20%20%2F%20%20LEVEL%20UP&descAlignY=57&descSize=18" width="100%" alt="Shubham Parmar — Learn / Build / Level Up" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:7C3AED,100:00D9FF&height=240&section=header&text=Shubham%20Parmar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=LEARN%20%20%2F%20%20BUILD%20%20%2F%20%20LEVEL%20UP&descAlignY=57&descSize=18" width="100%" alt="Shubham Parmar — Learn / Build / Level Up" />
 </p>
 
 <p align="center">
